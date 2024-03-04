@@ -1,0 +1,97 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.macbook-pro-6-fVZ {
+  width: 100%;
+  height: 90rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #183cb6 -0%, #c7005f 100%);
+}
+.macbook-pro-6-fVZ .rectangle-1-13d {
+  width: 130.5033rem;
+  height: 139.9932rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-6-fVZ .vector-wxs {
+  width: 75.4752rem;
+  height: 75.4752rem;
+  position: absolute;
+  left: 114.9882rem;
+  top: 54.9882rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-6-fVZ .vector-tdD {
+  width: 81.785rem;
+  height: 81.785rem;
+  position: absolute;
+  left: 41.5168rem;
+  top: 75.2615rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-6-fVZ .vector-q2f {
+  width: 89.9rem;
+  height: 89.9rem;
+  position: absolute;
+  left: 119.6rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-6-fVZ .rectangle-2-mS7 {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 29.9rem;
+  top: 83.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.3rem;
+}
+.macbook-pro-6-fVZ .frame-7-haf {
+  width: 151rem;
+  height: 40.9rem;
+  position: absolute;
+  left: 0;
+  top: 22rem;
+  overflow: hidden;
+  background-color: #ffc8b6;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-7-bg.png');
+  border-radius: 1.0915rem;
+}
+.macbook-pro-6-fVZ .how-society-vr-work-cSj {
+  width: 49.8rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 42.5rem;
+  top: 12.6rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 0.2274011374;
+  letter-spacing: -0.0187rem;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignUp Page</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+        body{
+            margin-top: 5px;
+        }
+      .page_container{
+        padding-top: 20px;
+        height: 400px;
+        width: 400px;
+        background-color: #C80060;
+        margin: auto;
+        border: 1px solid black;
+     
+        border-radius: 20px;
+        text-align: center;
+      }
+      h2{
+        color: rgb(15, 15, 197);
+      }
+      .input{
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+
+      }
+      .input:hover{
+        border-radius: red;
+      }
+      .input input{
+        border:1px solid black;
+        border-radius: 15px;
+        height: 25px;
+        width: 300px;
+        padding-left: 10px;
+      }
+      .signUp_button{
+        padding-top: 0.3rem;
+        height: 30px;
+        width: 200px;
+        background-color: rgb(86, 86, 172);
+        color: white;
+
+        border-radius: 20px;
+        margin: auto;
+
+        box-shadow: 9px 8px 18px rgb(86, 86, 172) ;
+      }
+      .signUp_button:hover{
+         background-color:blue ;
+      }
+      .login_button{
+        margin-top: 10px;
+        background-color: rgb(60, 60, 102);
+      }
+      .login_button:hover{
+        background-color: blueviolet;
+      }
+      h5{
+        margin-top: 10px;
+      }
+    </style>
+</head>
+<body>
+
+    <div class="page_container">
+    <h2>Sign Up Now</h2>
+
+    <div class="input">
+    <input type="text" placeholder="Your Email">
+    <input type="password" placeholder="Your Password">
+    </div>
+
+    <br>
+    <input type="radio">
+    <label for="button">I agree to the term of services</label>
+    <br> <br>
+    <div class="signUp_button">
+        Sign up
+    </div>
+
+    <h5>............ OR ............</h5>
+
+    <div class="login_button signUp_button">
+        Login with Google
+    </div>
+
+    <br>
+    <h5>Do you have an account?
+        <a href="@gmail.com">
+            Sign in
+        </a>
+    </h5>
+
+
+
+
+    </div>
+    
+    
+    
+</body>
+</html>

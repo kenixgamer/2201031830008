@@ -1,0 +1,920 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.macbook-pro-3-7UK {
+  width: 100%;
+  height: 90rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #183cb6 -0%, #c7005f 100%);
+}
+.macbook-pro-3-7UK .cover-ej9 {
+  width: 165.2rem;
+  height: 82.6rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 7.4rem;
+  overflow: hidden;
+}
+.macbook-pro-3-7UK .cover-ej9 .vector-z2K {
+  width: 165.2rem;
+  height: 110.1333rem;
+  position: absolute;
+  left: 0;
+  top: -7.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .group-vRm {
+  width: 257.6702rem;
+  height: 153.4444rem;
+  position: absolute;
+  left: -3.1rem;
+  top: -7.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T {
+  width: 36.3rem;
+  height: 33.8rem;
+  position: absolute;
+  left: 40.9rem;
+  top: 30.6rem;
+  row-gap: 2.7rem;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu {
+  width: 100%;
+  height: 4.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-XRZ {
+  box-sizing: border-box;
+  padding-left: 1.4rem;
+  width: 19.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-XRZ .am-3Pu {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-XRZ .auto-group-9zl9-sGT {
+  margin-right: 1.2rem;
+  width: calc(100% - 1.2rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-XRZ .auto-group-9zl9-sGT .rectangle-38-Q1V {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-XRZ .auto-group-9zl9-sGT .rectangle-38-Q1V .vector-vVd {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-XRZ .auto-group-9zl9-sGT .rectangle-39-ctF {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-XRZ .auto-group-9zl9-sGT .rectangle-39-ctF .vector-Aes {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 {
+  width: 19.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 .auto-group-vzgm-19h {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 .auto-group-vzgm-19h .am-AHV {
+  margin-right: 13.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 .auto-group-vzgm-19h .am-tzB {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 .auto-group-dm17-SF1 {
+  margin: 0rem 1.2rem 0rem 1.4rem;
+  width: calc(100% - 2.6rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 .auto-group-dm17-SF1 .rectangle-38-AB1 {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 .auto-group-dm17-SF1 .rectangle-38-AB1 .vector-u8b {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 .auto-group-dm17-SF1 .rectangle-39-Rcj {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-cstk-Aqu .time-picker-t55 .auto-group-dm17-SF1 .rectangle-39-Rcj .vector-Nns {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P {
+  width: 100%;
+  height: 4.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR {
+  width: 19.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR .auto-group-bwed-159 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR .auto-group-bwed-159 .am-m4K {
+  margin-right: 12.8rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR .auto-group-bwed-159 .am-gh5 {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR .auto-group-ktqm-q4B {
+  margin: 0rem 1.2rem 0rem 1.4rem;
+  width: calc(100% - 2.6rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR .auto-group-ktqm-q4B .rectangle-38-MYK {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR .auto-group-ktqm-q4B .rectangle-38-MYK .vector-6ko {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR .auto-group-ktqm-q4B .rectangle-39-Ro5 {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-TZR .auto-group-ktqm-q4B .rectangle-39-Ro5 .vector-yZh {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-uCT {
+  box-sizing: border-box;
+  padding-left: 1.4rem;
+  width: 19.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-uCT .am-d8T {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-uCT .auto-group-495p-AeB {
+  margin-right: 1.2rem;
+  width: calc(100% - 1.2rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-uCT .auto-group-495p-AeB .rectangle-38-WT9 {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-uCT .auto-group-495p-AeB .rectangle-38-WT9 .vector-epF {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-uCT .auto-group-495p-AeB .rectangle-39-AGo {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-sp9b-W8P .time-picker-uCT .auto-group-495p-AeB .rectangle-39-AGo .vector-6AT {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP {
+  width: 100%;
+  height: 4.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 {
+  width: 19.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 .auto-group-9x2q-pVm {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 .auto-group-9x2q-pVm .am-waP {
+  margin-right: 13.5rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 .auto-group-9x2q-pVm .am-THq {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 .auto-group-m6uj-oMh {
+  margin: 0rem 1.2rem 0rem 1.4rem;
+  width: calc(100% - 2.6rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 .auto-group-m6uj-oMh .rectangle-38-jFM {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 .auto-group-m6uj-oMh .rectangle-38-jFM .vector-5KD {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 .auto-group-m6uj-oMh .rectangle-39-njR {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-hg3 .auto-group-m6uj-oMh .rectangle-39-njR .vector-Yib {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-G8o {
+  box-sizing: border-box;
+  padding-left: 1.4rem;
+  width: 19.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-G8o .am-bB5 {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-G8o .auto-group-6wqz-wVq {
+  margin-right: 1.2rem;
+  width: calc(100% - 1.2rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-G8o .auto-group-6wqz-wVq .rectangle-38-e9M {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-G8o .auto-group-6wqz-wVq .rectangle-38-e9M .vector-P6w {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-G8o .auto-group-6wqz-wVq .rectangle-39-Hy1 {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-zpxd-mnP .time-picker-G8o .auto-group-6wqz-wVq .rectangle-39-Hy1 .vector-eHm {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 {
+  width: 100%;
+  height: 4.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB {
+  width: 19.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB .auto-group-pahk-SDd {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB .auto-group-pahk-SDd .am-zkw {
+  margin-right: 13.8rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB .auto-group-pahk-SDd .am-vuV {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB .auto-group-k7im-URD {
+  margin: 0rem 1.2rem 0rem 1.4rem;
+  width: calc(100% - 2.6rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB .auto-group-k7im-URD .rectangle-38-bkj {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB .auto-group-k7im-URD .rectangle-38-bkj .vector-wpb {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB .auto-group-k7im-URD .rectangle-39-U3q {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-VpB .auto-group-k7im-URD .rectangle-39-U3q .vector-cQw {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-KKM {
+  box-sizing: border-box;
+  padding-left: 1.4rem;
+  width: 19.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-KKM .am-3WF {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-KKM .auto-group-va69-BsM {
+  margin-right: 1.2rem;
+  width: calc(100% - 1.2rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-KKM .auto-group-va69-BsM .rectangle-38-icP {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-KKM .auto-group-va69-BsM .rectangle-38-icP .vector-rib {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-KKM .auto-group-va69-BsM .rectangle-39-mKm {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .auto-group-lqvw-AG7 .time-picker-KKM .auto-group-va69-BsM .rectangle-39-mKm .vector-WYF {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs {
+  width: 19.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs .auto-group-untf-bJo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs .auto-group-untf-bJo .am-Yzj {
+  margin-right: 13.8rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs .auto-group-untf-bJo .am-h6w {
+  text-align: right;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #d9e3e4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs .auto-group-k7vd-EsZ {
+  margin: 0rem 1.2rem 0rem 1.4rem;
+  width: calc(100% - 2.6rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs .auto-group-k7vd-EsZ .rectangle-38-Zew {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs .auto-group-k7vd-EsZ .rectangle-38-Zew .vector-7RZ {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs .auto-group-k7vd-EsZ .rectangle-39-EWB {
+  box-sizing: border-box;
+  padding: 0.7rem 3.1rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.1rem #a87fff;
+  background-color: #3902ae;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .frame-5-f8T .time-picker-dcs .auto-group-k7vd-EsZ .rectangle-39-EWB .vector-nXh {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .group-2-6HV {
+  box-sizing: border-box;
+  padding: 0.6rem 1.4rem 0.5rem 1.4rem;
+  width: 63.9rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 25.4rem;
+  top: 20.9rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-3-7UK .cover-ej9 .group-2-6HV .ic-round-arrow-left-aiT {
+  margin: 0rem 19.2rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .group-2-6HV .group-5-ho5 {
+  margin-right: 12.1772rem;
+  width: 23.3228rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a87fff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #c9d7d9;
+  box-sizing: border-box;
+  box-shadow: inset 0.1rem 0.2rem 0.4rem rgba(0, 0, 0, 0.150000006));
+  background-color: #384243;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .group-2-6HV .ic-round-arrow-left-X1R {
+  margin-bottom: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .btn-design-building-3VZ {
+  width: 35.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 39.3rem;
+  top: 68rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0.4rem 0.4rem 1.2rem rgba(0, 0, 0, 0.1000000015), 0.1rem 0.2rem 0.4rem rgba(0, 0, 0, 0.150000006);
+  background-color: #8248ff;
+  border-radius: 0.4rem;
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH {
+  width: 35.8rem;
+  height: 10.6rem;
+  position: absolute;
+  left: 42.5rem;
+  top: 6.7rem;
+  display: flex;
+  align-items: flex-end;
+  background-color: #384243;
+  border-radius: 0.7rem;
+  box-shadow: 0.4rem 0.4rem 1.2rem rgba(0, 0, 0, 0.1000000015), 0.1rem 0.2rem 0.4rem rgba(0, 0, 0, 0.150000006);
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH .auto-group-tgcm-PSw {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.9rem;
+  width: 9.9rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-7-bg.png');
+  border-radius: 0.7rem 0 0 0.7rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH .auto-group-tgcm-PSw .mdi-star-jFu {
+  margin: 0rem 5.7rem 6.4rem 0rem;
+  opacity: 0.7;
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH .auto-group-qdxb-Yj9 {
+  width: 24.9rem;
+  flex-shrink: 0;
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH .auto-group-qdxb-Yj9 .space-name-5j5 {
+  margin-bottom: 2.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5555555556;
+  color: #f6f8f8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH .auto-group-qdxb-Yj9 .auto-group-qnvb-1Mq {
+  width: 100%;
+  height: 5rem;
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH .auto-group-qdxb-Yj9 .auto-group-qnvb-1Mq .auto-group-68um-F1H {
+  width: 10rem;
+  height: 4rem;
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH .auto-group-qdxb-Yj9 .auto-group-qnvb-1Mq .auto-group-68um-F1H .room-3018-BvX {
+  margin-bottom: 0.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #c9d7d9;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-3-7UK .cover-ej9 .card-TZH .auto-group-qdxb-Yj9 .auto-group-qnvb-1Mq .auto-group-68um-F1H .open-now-L2j {
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #fe9c1c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-3-7UK .rectangle-1-z7H {
+  width: 130.5033rem;
+  height: 139.9932rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .vector-vWj {
+  width: 75.4752rem;
+  height: 75.4752rem;
+  position: absolute;
+  left: 114.9882rem;
+  top: 54.9882rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .vector-Fou {
+  width: 81.785rem;
+  height: 81.785rem;
+  position: absolute;
+  left: 41.5168rem;
+  top: 75.2615rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .vector-nYw {
+  width: 89.9rem;
+  height: 89.9rem;
+  position: absolute;
+  left: 119.6rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .vector-1-Y2K {
+  width: 4.8rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 80.9rem;
+  top: 45.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .vector-2-Ugf {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 86.8rem;
+  top: 46.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-3-7UK .rectangle-2-DPM {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 29.9rem;
+  top: 83.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.3rem;
+}
